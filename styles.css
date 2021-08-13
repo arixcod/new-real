@@ -299,27 +299,7 @@ nav {
 
 /* I added it */
 
-.card-site-main{
-    visibility: hidden;
-    flex-wrap: wrap;
-    justify-content: center;
-}
 
-.card-site{
-        width: 300px;
-        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-        text-align: center;
-        margin-left: 25px;
-        transition: .3s;
-    }
-    .card-site:hover{
-        transform: translateY(10px);
-    }
-.container-site{
-    padding: 10px;
-    margin: 10px;
-    color: coral;
-}
 
 /* I added it--end of it */
 
